@@ -16,7 +16,6 @@ steps:
   inputs:
     restoreSolution: '$(solution)'
 
-- 
 - task: MSBuild@1
   inputs:
     solution: '**/*.sln'
