@@ -13,16 +13,16 @@ steps:
   inputs:
     packageType: 'sdk'
     version: '3.0.x'
- 
+
 - task: DotNetCoreCLI@2
   inputs:
     command: 'publish'
     publishWebProjects: false
     zipAfterPublish: false
     modifyOutputPath: false
-    arguments: --ouput $(Build.ArtifactStagingDirectory)
+    arguments: --output $(Build.ArtifactStagingDirectory)
 
- - task: PublishBuildArtifacts@1
-   inputs:
-     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
-     ArtifactName: 'calculator'
+- task: PublishPipelineArtifact@1
+  inputs:
+    targetPath: '$(Build.ArtifactStagingDirectory)'
+    artifact: 'Calculator'
