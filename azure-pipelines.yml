@@ -1,0 +1,29 @@
+trigger:
+- master
+
+pool:
+  vmImage: 'windows-latest'
+
+variables:
+  DOTNET_SKIP_FIRST_TIME_EXPERIENCE: true
+  buildConfiguration: 'Release'
+
+steps:
+- task: UseDotNet@2
+  inputs:
+    packageType: 'sdk'
+    version: '3.0.x'
+ 
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'publish'
+    publishWebProjects: false
+    zipAfterPublish: false
+    modifyOutputPath: false
+    arguments: --ouput $(Build.ArtifactStagingDirectory)
+
+ - task: PublishBuildArtifacts@1
+   inputs:
+     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+     ArtifactName: 'calculator'
+     publishLocation: 'Container'
