@@ -1,0 +1,259 @@
+[33mcommit fb882ffc301dc70c50bea17ce207c671606eeab8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 311ba38 6bc2ed3
+Author: [vinayak] <[vinayak.korti@gmail.com]>
+Date:   Wed May 27 17:09:05 2020 +0530
+
+    hdhjdjMerge branch 'master' of https://github.com/vinayakkorti/DotNetConf2019
+
+[33mcommit 311ba381d40f6a682fb03a944a5fe235fd6ba1c1[m
+Author: [vinayak] <[vinayak.korti@gmail.com]>
+Date:   Wed May 27 17:06:45 2020 +0530
+
+    second commit
+
+[33mcommit 6bc2ed373e71426e32c785b7fe2dc0798545177f[m
+Author: vinayakkorti <35797487+vinayakkorti@users.noreply.github.com>
+Date:   Wed May 27 16:59:53 2020 +0530
+
+    Update azure-pipelines-1.yml for Azure Pipelines
+
+[33mcommit 138c5f4c8d4def92f0ab86c4a730a6472cd79bb6[m
+Author: vinayakkorti <35797487+vinayakkorti@users.noreply.github.com>
+Date:   Wed May 27 16:56:51 2020 +0530
+
+    Update azure-pipelines-1.yml for Azure Pipelines
+
+[33mcommit f2a2d87c10962b089920c7d34f97a7fd2fa8b59d[m
+Author: [vinayak] <[vinayak.korti@gmail.com]>
+Date:   Wed May 27 16:20:56 2020 +0530
+
+    inital commit
+
+[33mcommit 1bd2d23949db888c5fb0156d0dae2726f4e81179[m
+Author: vinayakkorti <35797487+vinayakkorti@users.noreply.github.com>
+Date:   Wed May 27 15:30:04 2020 +0530
+
+    Update azure-pipelines-1.yml for Azure Pipelines
+
+[33mcommit c55542d84e887cc7e549a53dda5868f65e1411cc[m
+Author: vinayakkorti <35797487+vinayakkorti@users.noreply.github.com>
+Date:   Wed May 27 15:05:34 2020 +0530
+
+    Update azure-pipelines-1.yml for Azure Pipelines
+
+[33mcommit 3db40f89c373e4a036e8a94aad73b610d4283c1a[m
+Author: vinayakkorti <35797487+vinayakkorti@users.noreply.github.com>
+Date:   Wed May 27 15:05:02 2020 +0530
+
+    Update azure-pipelines-1.yml for Azure Pipelines
+
+[33mcommit 457100713ef6823385d6730ecb0d98c241aebdb1[m
+Author: vinayakkorti <35797487+vinayakkorti@users.noreply.github.com>
+Date:   Wed May 27 14:53:56 2020 +0530
+
+    Update azure-pipelines-1.yml for Azure Pipelines
+
+[33mcommit 177edcc537feff8364e0a532fc1f5316ceb9375b[m
+Author: vinayakkorti <35797487+vinayakkorti@users.noreply.github.com>
+Date:   Wed May 27 14:44:34 2020 +0530
+
+    Update azure-pipelines-1.yml for Azure Pipelines
+
+[33mcommit 9cd020027727730ea68c27d45099217e4e03bfbc[m
+Author: vinayakkorti <35797487+vinayakkorti@users.noreply.github.com>
+Date:   Wed May 27 14:33:50 2020 +0530
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit ba01eae2187e04d8f425441d2d5387f57236adc1[m
+Author: vinayakkorti <35797487+vinayakkorti@users.noreply.github.com>
+Date:   Wed May 27 14:25:45 2020 +0530
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit f6208b7da16fc0ff22306cfd2ad9bbe37f7bda3b[m
+Author: vinayakkorti <35797487+vinayakkorti@users.noreply.github.com>
+Date:   Wed May 27 14:25:10 2020 +0530
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 59efc719daac105e4467cda623fb1decbdaf3ab8[m
+Author: vinayakkorti <35797487+vinayakkorti@users.noreply.github.com>
+Date:   Wed May 27 12:31:17 2020 +0530
+
+    Update azure-pipelines.yml
+
+[33mcommit 3ef067fb37988a3d5056a4be47b292936c6337f8[m
+Author: vinayakkorti <35797487+vinayakkorti@users.noreply.github.com>
+Date:   Wed May 27 12:29:25 2020 +0530
+
+    Update azure-pipelines.yml
+
+[33mcommit 7ceccc6aa483f819d4b46bc398c4f07327363280[m
+Author: vinayakkorti <35797487+vinayakkorti@users.noreply.github.com>
+Date:   Wed May 27 12:24:17 2020 +0530
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit 19fdc2e4392870bfecdb4c41be1dd289f8ecc1fb[m
+Author: vinayakkorti <35797487+vinayakkorti@users.noreply.github.com>
+Date:   Wed May 27 11:34:53 2020 +0530
+
+    Delete azure-pipelines.yml
+
+[33mcommit be8cd5c94022b2ff0106e7017f155756bdd05651[m
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Oct 7 11:13:43 2019 -0700
+
+    Adding App Center
+
+[33mcommit d61f2e4d437023188d4633a60f2d0589ee46f549[m
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Oct 7 10:07:10 2019 -0700
+
+    Adding strong types because this is C# :)
+
+[33mcommit 84da3caab75c2f51485702adea45107c5afe6be1[m
+Merge: 53183a8 18d2cae
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Sep 23 12:11:18 2019 -0700
+
+    Merge branch 'master' of https://github.com/diverdan92/DotNetConf2019
+
+[33mcommit 53183a8f36c10c1422442c0f72b9ab25b5cb1dcd[m
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Sep 23 12:11:15 2019 -0700
+
+    Adding App Center!
+
+[33mcommit 18d2cae082ce150400bc664b89fd3368fbab05b5[m
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Sep 23 12:07:48 2019 -0700
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit 10bdb89edc5848ba46246fdcefff0f7dd2dbeb2b[m
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Sep 23 11:13:54 2019 -0700
+
+    Delete azure-pipelines.yml
+
+[33mcommit 7a49f6b0a17b4588c29e60926a997c2c5ff0f163[m
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Sep 23 11:06:35 2019 -0700
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit 1b64743ec8d992e68364ba3bd081ad7ef49e8367[m
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Sep 23 09:55:48 2019 -0700
+
+    Removing App Center
+
+[33mcommit fd8b6a15fb238668f8b18c7c73d72060a3ade7e3[m
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Sep 23 09:54:52 2019 -0700
+
+    Delete azure-pipelines.yml
+
+[33mcommit 339d1ef313d933ca08c529e9c5558f72cccfc9fb[m
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Sep 23 09:30:29 2019 -0700
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 23f7b86b445de53bd3fa94a49f111a7653411a22[m
+Merge: 7c20382 9b2d13a
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Sep 23 09:30:08 2019 -0700
+
+    Merge branch 'master' of https://github.com/diverdan92/DotNetConf2019
+
+[33mcommit 7c203824530cdbeffb2a26624945a396614572bf[m
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Sep 23 09:30:05 2019 -0700
+
+    Adding App Center
+
+[33mcommit 9b2d13a9528fbeac0db8841ba5a8af017e06a16f[m
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Sep 23 09:28:46 2019 -0700
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit 8fe3cfd3a360ad7c2af4bb29a7d8c60c25bb9d70[m
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Sep 23 09:09:41 2019 -0700
+
+    Delete azure-pipelines.yml
+
+[33mcommit 7621e44393ecc34f0dda7530d227c212d6a7d3e4[m
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Sep 23 09:02:23 2019 -0700
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 6126b7a80f79a186c9b2affaf261f20953381af2[m
+Merge: 009831b 10f71fd
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Sep 23 08:54:32 2019 -0700
+
+    Merge branch 'master' of https://github.com/diverdan92/DotNetConf2019
+
+[33mcommit 009831b45c3b897e4a7116e429d4c2b63bb6ea5d[m
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Sep 23 08:54:30 2019 -0700
+
+    Fixing build
+
+[33mcommit 10f71fdea3116ff82154c2c98ebf5a28ccecfc6f[m
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Sep 23 08:50:49 2019 -0700
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 670c351de2516d395f2bbd1eb57a5c1d7c7744de[m
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Sep 23 08:47:20 2019 -0700
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 7520c85b6996fd64e48cefd563a83d67823e153a[m
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Sep 23 08:46:11 2019 -0700
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit 8d94daffccf2022b76fc7533011ef565fa8240d6[m
+Merge: 35d256a 7adbd26
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Sep 23 08:43:47 2019 -0700
+
+    Merge branch 'master' of https://github.com/diverdan92/DotNetConf2019
+
+[33mcommit 35d256a19ab0b28b21eaada0c29e6761917e71bb[m
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Mon Sep 23 08:43:44 2019 -0700
+
+    Removing App Center
+
+[33mcommit 7adbd2694a6507763f6792c05db95cc3f43300e9[m
+Author: Daniel Jacobson <dajaco@microsoft.com>
+Date:   Sun Sep 22 17:14:41 2019 -0700
+
+    Delete azure-pipelines.yml
+
+[33mcommit c28f4ebcce7ae5bdb8028b0108b4afe6a516bda2[m
+Merge: bde5597 78
