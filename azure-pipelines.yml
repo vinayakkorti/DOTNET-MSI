@@ -2,7 +2,7 @@ trigger:
 - master
 
 pool:
-  'My_local_host_agent'
+  vmImage: 'windows-latest'
 
 variables:
   DOTNET_SKIP_FIRST_TIME_EXPERIENCE: true
